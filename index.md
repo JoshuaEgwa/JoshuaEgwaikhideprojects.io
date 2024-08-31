@@ -5,6 +5,8 @@ layout: default
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
+Here's my blog: https://hdginfosec.blog/
+And this, is my LinkedInhttps://www.linkedin.com/in/joshua-egwaikhide-051349268/
 
 There should be whitespace between paragraphs.
 
