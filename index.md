@@ -6,15 +6,17 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 Here's my blog: https://hdginfosec.blog/
-And this, is my LinkedInhttps://www.linkedin.com/in/joshua-egwaikhide-051349268/
+And this is my LinkedIn https://www.linkedin.com/in/joshua-egwaikhide-051349268/
 
-There should be whitespace between paragraphs.
+I am a Computer Science student at Texas State University, cybersecurity intrigues me, the idea of defending data from attackers, creating dashboards to visualize and understand data more, and creating scripts to automate processes to me seems a lot more interesting than doing something like WebDev. Cybersecurity has so many pathways you can take, it's not one-dimensional. Right now I'm extremely interested in learning Threat intelligence incident response, and general cloud security. On this website, you can find all my projects, and I talk about them in full detail   
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Threat Intelligence Automation using Python
+
+In this project, I used Python scripts to gather threat intelligence data from APIs. The APIs I used were VirusTotal, CIRCL, and AbuseIPDB, VirusTotal documents the detected URLs, the CIRCL API documents the DNS records, and the AbuseIPDB API documents the abuse score.
+
+
 
 ## Header 2
 
