@@ -10,7 +10,7 @@ And this is my LinkedIn https://www.linkedin.com/in/joshua-egwaikhide-051349268/
 
 I am a Computer Science student at Texas State University, cybersecurity intrigues me, the idea of defending data from attackers, creating dashboards to visualize and understand data more, and creating scripts to automate processes to me seems a lot more interesting than doing something like WebDev. Cybersecurity has so many pathways you can take, it's not one-dimensional. Right now I'm extremely interested in learning Threat intelligence incident response, and general cloud security. On this website, you can find all my projects, and I talk about them in full detail. Below are some screenshots of my python script and results.   
 
-<img src="Pictures\codesnippet1.PNG" alt= "python script part one">
+<img src="\Users\roger\OneDrive\Pictures\codesnippet1.PNG" alt= "python script part one">
 
 # Threat Intelligence Automation using Python
 
